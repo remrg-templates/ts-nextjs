@@ -27,6 +27,8 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
+Read the [Getting Started Guide](./docs/guides/getting-started.md) to get started.
+
 ## License
 
 Licensed under the [{{ remrg:var license }}](LICENSE.md).
